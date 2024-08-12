@@ -1,0 +1,12 @@
+{
+    "name": "prometheus_electron_backend",
+    "version": "0.0.1",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "clickhouse": "^2.6.0",
+        "cors": "^2.8.5",
+        "express": "^4.19.2"
+    }
+}
